@@ -1,2 +1,23 @@
 # hola
-Mi primera página web
+<!DOCTYPE html> <!-- Indica que este documento es HTML5 -->
+<html> <!-- Inicio del documento HTML -->
+<head> <!Cabecera: aquí va la configuración de la página -->
+<meta charset="UTF-8"> <!-- Permite usar caracteres especiales como tildes y ñ -->
+<title>Mi primera página</title> <!-- Título que aparece en la pestaña del navegador -->
+ <link rel="icon" type="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfjFlp2knrovoWG6xA8-iLLO-4bb86YMqJWGhtNWKCdwcuTkYfrLxLi-Rd83YMp4KpzpBvv3_32kFtMclVF8rKCh2v9CZ9DVLc4S.jpg?r=4d8">
+<link rel="shortcut icon" href="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfjFlp2knrovoWG6xA8-iLLO-4bb86YMqJWGhtNWKCdwcuTkYfrLxLi-Rd83YMp4KpzpBvv3_32kFtMclVF8rKCh2v9CZ9DVLc4S.jpg?r=4d8"> 
+</head>
+<body> <!Cuerpo: todo lo que el usuario verá en la página -->
+<h1>Sobre mi</h1> <!-- Encabezado principal -->
+<p>Esta es mi primera página web y tendra una breve información sobre mi.</p> <!-- Un párrafo de texto -->
+<p>Mi nombre es Juan Pablo Jara, soy estudiante de Ingeniería Civil en Comptación e Informática y actualmente
+estoy cursando mi tercer año en la universidad mayor.</p>
+<p>Los hobbies que realizo en mi tiempo libre son lo siguientes: </p> 
+
+<ul>
+<li>Jugar videojuegos</li>
+<li>Ver anime</li>
+  </ul>
+<img src="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfjFlp2knrovoWG6xA8-iLLO-4bb86YMqJWGhtNWKCdwcuTkYfrLxLi-Rd83YMp4KpzpBvv3_32kFtMclVF8rKCh2v9CZ9DVLc4S.jpg?r=4d8">
+</body>
+</html> <!-- Fin del documento HTML -->
